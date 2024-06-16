@@ -21,8 +21,8 @@ These additional references should also help you:
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
 ### Follow
-[ssh setup](https://docs.cloudfoundry.org/devguide/deploy-apps/ssh-apps.html)
-[set up pcf](https://www.lokajittikayatray.com/post/how-to-troubleshoot-memory-leak-in-java-application-deployed-in-vmware-tanzu-pcf)
-[VisualVM Compare](https://github.com/oracle/visualvm/issues/57)
-[JMX Setup](https://stackoverflow.com/questions/10331189/how-to-find-the-default-jmx-port-number)
+* [ssh setup](https://docs.cloudfoundry.org/devguide/deploy-apps/ssh-apps.html)
+* [set up pcf](https://www.lokajittikayatray.com/post/how-to-troubleshoot-memory-leak-in-java-application-deployed-in-vmware-tanzu-pcf)
+* [VisualVM Compare](https://github.com/oracle/visualvm/issues/57)
+* [JMX Setup](https://stackoverflow.com/questions/10331189/how-to-find-the-default-jmx-port-number)
 
